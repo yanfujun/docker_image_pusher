@@ -1,2 +1,2 @@
-docker pull nginx:stable-perl
-docker pull mysql:8.0.43-oraclelinux9
+nginx:stable-perl
+mysql:8.0.43-oraclelinux9
