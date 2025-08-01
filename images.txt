@@ -1,2 +1,5 @@
-mysql:8.0
-nginx:stable-perl
+python:3.9.23
+qwen3:30B-A3B-F16
+k8s:v1.12.10-rancher1-1
+redis:8.0.3
+oraclelinux:8.10
