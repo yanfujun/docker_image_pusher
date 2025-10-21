@@ -1,5 +1,4 @@
 ubuntu:rolling
-ai/deepseek-r1-distill-llama:8B-Q4_0
 redhat/granite-3-2b-instruct:1.0-1731549069
 redis:latest
 debian:trixie-backports
