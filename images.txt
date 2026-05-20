@@ -1,2 +1,3 @@
-zabbix/zabbix-web-nginx-mysql:trunk-centos
-zabbix/zabbix-web-nginx-mysql:centos-trunk
+zabbix/zabbix-web-nginx-mysql:centos-5.0.42
+zabbix/zabbix-web-nginx-mysql:centos-7.4.10
+zabbix/zabbix-web-nginx-mysql:centos-6.0.46
