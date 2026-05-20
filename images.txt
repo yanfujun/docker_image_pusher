@@ -1,2 +1,2 @@
-docker pull zabbix/zabbix-web-nginx-mysql:trunk-centos
-docker pull zabbix/zabbix-web-nginx-mysql:centos-trunk
+zabbix/zabbix-web-nginx-mysql:trunk-centos
+zabbix/zabbix-web-nginx-mysql:centos-trunk
