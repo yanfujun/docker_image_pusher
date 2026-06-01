@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:ol-7.0.26
-zabbix/zabbix-server-mysql:7.0.26-centos
+zabbix/zabbix-server-mysql:7.4.10-centos
